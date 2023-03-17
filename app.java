@@ -3,3 +3,4 @@
 #Make use of variables and dynamic vriables
 #Author: Daystar Ayo
 # This is a front end application
+Bugs removed
